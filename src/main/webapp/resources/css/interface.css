@@ -1,0 +1,12 @@
+.navbar>ul{
+	list-style-type:none;
+}
+.navbar>ul>li{
+	width:100%;
+	height:120px;
+}
+.navbar>ul>li:hover{
+	background-color:#066;
+}
+.navbar{
+	background-color:#3C9;}
